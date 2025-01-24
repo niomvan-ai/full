@@ -2,7 +2,7 @@ import axios from "axios";
 import { ACCESS_TOKEN } from "./constants";
 
 const api = axios.create({
-  baseURL: "http://127.0.0.1:8000/api/",
+  baseURL: "https://cautious-space-garbanzo-pxrrvjv9g67hvg6-8000.app.github.dev/api/",
 });
 
 api.interceptors.request.use(
