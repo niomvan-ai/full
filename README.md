@@ -9,7 +9,6 @@ To run the application, follow these steps:
 3. once in the terminal, type `chmod +x backend.sh && ./backend.sh`
 4. click the plus icon to create another terminal
 5. once in the new terminal, type `chmod +x frontend.sh && ./frontend.sh`
-6. when a pop-up comes up with port 5173, click, open in browser
-7. go to the ports tab, with the terminal tab. right click, make the one with port 8000 public
+6. when a pop-up comes up with port 5173, click make public
 
 This will start the app with all the necessary dependencies and configurations.
